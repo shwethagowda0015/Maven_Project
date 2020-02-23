@@ -14,5 +14,12 @@ public class App
     public void main1(  )
     {
         System.out.println("Hello Bassu");
+ 
     }
+
+     public void main2(  ) 
+    {
+        System.out.println("Hello Good Morning Boss");
+    }
+
 }
